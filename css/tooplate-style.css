@@ -569,6 +569,9 @@ b, strong {
     display: inline-block;
     vertical-align: top;
   }
-
+  
+  .row {
+    margin: 30px;
+  }
 
 }
